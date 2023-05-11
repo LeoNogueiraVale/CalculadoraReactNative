@@ -1,0 +1,1 @@
+Projeto Acadêmico de uma calculadora pelo react native
